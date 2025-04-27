@@ -36,7 +36,7 @@ This template was written specifically with the following kinds of users in mind
 - [Duplex qPCR for Rapid Simultaneous Detection of Batrachochytrium dendrobatidis and Batrachochytrium salamandrivorans in Amphibian Samples 1.pptx](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Duplex%20qPCR%20for%20Rapid%20Simultaneous%20Detection%20of%20Batrachochytrium%20dendrobatidis%20and%20Batrachochytrium%20salamandrivorans%20in%20Amphibian%20Samples%201.pptx) this is a powerpoint presentation explaining the project in detail.
 
 ## Collaborators
-Halley Deme, Sydney Purcell, Molly Regan, & Dr. Elle Barnes
+[Halley Deme](https://www.linkedin.com/in/halley-deme-aa91622ab/), [Sydney Purcell](https://www.linkedin.com/in/sydney-purcell-7b5140257/), [Molly Regan](https://www.linkedin.com/in/molly-regan-79176a260/), & [Dr. Elle Barnes](https://www.linkedin.com/in/elle-barnes-19474013a/)
 
 ## Useful Recources
 - [Blooi, Mark, et al. "Duplex real-time PCR for rapid simultaneous detection of Batrachochytrium dendrobatidis and Batrachochytrium salamandrivorans in amphibian samples." Journal of clinical microbiology 51.12 (2013): 4173-4177.](https://journals.asm.org/doi/full/10.1128/jcm.02313-13)
