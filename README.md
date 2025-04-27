@@ -1,7 +1,7 @@
 # Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples
 <!-- TOC -->
 
-- [README.md `bioinformatics_project_template`](#readmemd-bioinformatics_project_template)
+- [README.md](#readmemd)
   - [Why should you use this repository?](#why-should-you-use-this-repository)
   - [How to use this repository](#how-to-use-this-repository)
     - [Cloning the repository/template to your machine](#cloning-the-repositorytemplate-to-your-machine)
