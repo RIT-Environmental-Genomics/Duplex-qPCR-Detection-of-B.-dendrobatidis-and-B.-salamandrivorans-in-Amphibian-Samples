@@ -11,11 +11,11 @@ The fungal pathogens B. dendrobatidis and B. salamandrivorans are responsible fo
    - B sal appeared to be detected in samples due to excess background noise
    - the real-time PCR system was not able to be set to correct flurophore (an adjacent one was chosen but still lead to excessive background noise)
 
-- [Why should you use this repository?](#why-should-you-use-this-repository)
-- [How to use this repository](#how-to-use-this-repository)
-- [Collaborators](#collaborators)
-- [Useful resources](#useful-resources)
-- [License](#license)
+[Why should you use this repository?](#why-should-you-use-this-repository)
+[How to use this repository](#how-to-use-this-repository)
+[Collaborators](#collaborators)
+[Useful resources](#useful-resources)
+[License](#license)
 
 <img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Download-Image.png" alt="Salamander">
 
