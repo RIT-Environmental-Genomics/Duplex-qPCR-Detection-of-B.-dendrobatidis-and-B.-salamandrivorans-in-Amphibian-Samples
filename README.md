@@ -25,4 +25,4 @@ These files can - and should - be modified for your own project. For example, **
 
 The same applies to `README.md` files in the subdirectories under this _project root_ folder
 
-<img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Download-Image.png" alt="Salamander">
+<img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Photo.png" alt="Salamanders">
