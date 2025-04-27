@@ -23,14 +23,15 @@ The fungal pathogens B. dendrobatidis and B. salamandrivorans are responsible fo
 
 This template was written specifically with the following kinds of users in mind:
 
-- people working on or interested in decetion of B. dendrobatidis and B. salamandrivorans in salamanders, especially comparing infection loads in respect to age.
+- people working on or interested in decetion of B. dendrobatidis and B. salamandrivorans in salamanders
+- users interested in pathogen dynamics in diffent amphibian host species, populations, and ages.
 - nancent enviornemental genomicist interested in learning practical biotechnology techniques
 
 ## How to use this repository
 
-- [2025-04-08_175018 HMS.eds](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/2025-04-08_175018%20HMS.eds) this is a detection template, users can run their detection data with it. 
+- [2025-04-08_175018 HMS.eds](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/2025-04-08_175018%20HMS.eds) this is a template used for setting up and running the detection experiment in Thermo Fisher Scientific's QuantStudio software. It also gives access to our data, so the user can re-run the experiment using different instructions such as detecting for different florescent probes. 
 - [Figures of Results 2.xlsx](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Figures%20of%20Results%202.xlsx) this is a google sheet with raw data and figures comparing average adult vs. metamorph positive infection load scores and percentages of host species of adults with positive infection load scores. 
-- [Raw Reads.xls](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Raw%20Reads.xls) this is our raw extrapolated data from the samples amplified using the real-time PCR system. 
+- [Raw Reads.xls](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Raw%20Reads.xls) this is our raw extrapolated data from QuantStudio. 
 - [qPCR_Metadata_EnviroGenom_HMS.xlsx](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/qPCR_Metadata_EnviroGenom_HMS.xlsx) this is a sample identification table listing host species, age, and location sampled from.
 - [Duplex qPCR for Rapid Simultaneous Detection of Batrachochytrium dendrobatidis and Batrachochytrium salamandrivorans in Amphibian Samples 1.pptx](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Duplex%20qPCR%20for%20Rapid%20Simultaneous%20Detection%20of%20Batrachochytrium%20dendrobatidis%20and%20Batrachochytrium%20salamandrivorans%20in%20Amphibian%20Samples%201.pptx) this is a powerpoint presentation explaining the project in detail.
 
