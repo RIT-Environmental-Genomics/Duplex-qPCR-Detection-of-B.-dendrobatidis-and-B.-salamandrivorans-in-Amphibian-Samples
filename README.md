@@ -1,5 +1,5 @@
 # Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples
-
+<!-- TOC -->
 ## Description 
 
 The fungal pathogens B. dendrobatidis and B. salamandrivorans are responsible for chytridiomycosis which causes skin lesions and skin ulcers. This is disease that has led to severe declines and extinctions in amphibian populations worldwide. B. dendrobatidis infects the skin of a large range of anurans, urodeles and caecilians, whereas to date the host range of B. salamandrivorans seems limited to urodeles.  B. dendrobatidis has been identified across multiple continents, while B. salamandrivorans is a more recent emerging threat, primarily affecting salamanders in Europe and North America. The ability of these pathogens to spread rapidly through water and direct contact raises concerns for both wild and captive salamander populations. Previous research has demonstrated that environmental factors such as temperature and humidity influence the persistence and virulence of these fungi, but there is still a significant gap in understanding their demographic impacts on salamanders at different life stages.
