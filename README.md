@@ -12,7 +12,7 @@
   - [LICENCE](#licence)
   <!-- /TOC -->
 
-<img src="https://?q=salamander&ia=images&iax=images&iai=https%3A%2F%2Fwww.treehugger.com%2Fthmb%2FPf8hq-qd9XSXORS0wMnTLzJ2Ohw%3D%2F5500x3667%2Ffilters%3Afill%28auto%2C1%29%2Fnorthern-red-salamander-on-rock-520077654-ba6b66f08ddc43ecbd1d62583071c539.jpg" alt="Salamander">
+<img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Download-Image.png" alt="Salamander">
 ## Why should you use this repository?
 
 This template was written specifically with the following kinds of users in mind:
