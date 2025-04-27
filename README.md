@@ -10,12 +10,12 @@ The fungal pathogens B. dendrobatidis and B. salamandrivorans are responsible fo
    - initally there were 6 standards, down sized to 5 as there was not enough space in the 96 well plate
    - B sal appeared to be detected in samples due to excess background noise
    - the real-time PCR system was not able to be set to correct flurophore (an adjacent one was chosen but still lead to excessive background noise)
-
-[Why should you use this repository?](#why-should-you-use-this-repository)
-[How to use this repository](#how-to-use-this-repository)
-[Collaborators](#collaborators)
-[Useful resources](#useful-resources)
-[License](#license)
+<!-- TOC -->
+- [Why should you use this repository?](#why-should-you-use-this-repository)
+- [How to use this repository](#how-to-use-this-repository)
+- [Collaborators](#collaborators)
+- [Useful resources](#useful-resources)
+- [License](#license)
 
 <img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Download-Image.png" alt="Salamander">
 
