@@ -25,7 +25,7 @@ This template was written specifically with the following kinds of users in mind
 
 - people working on or interested in decetion of B. dendrobatidis and B. salamandrivorans in salamanders
 - users interested in pathogen dynamics in diffent amphibian host species, populations, and ages.
-- nancent enviornemental genomicist interested in learning practical biotechnology techniques
+- nascent enviornemental genomicist interested in learning practical biotechnology techniques
 
 ## How to use this repository
 
