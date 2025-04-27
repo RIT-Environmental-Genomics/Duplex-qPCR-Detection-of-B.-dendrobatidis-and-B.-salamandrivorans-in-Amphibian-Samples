@@ -26,11 +26,10 @@ This template was written specifically with the following kinds of users in mind
 
 ## How to use this repository
 
-This repository is a _template_. It does not contain any project information itself, but it does lay out a directory structure with a minimal skeleton of explanatory `README.md` files explaining the motivation behind each directory in the project structure.
-
-These files can - and should - be modified for your own project. For example, **this `README.md` file is a landing page for the project, explaining what it is, why it exists, and how to use it.** Your project repository should replace this `README.md` file with information that performs the same task _for your project_.
-
-The same applies to `README.md` files in the subdirectories under this _project root_ folder
+- [2025-04-08_175018 HMS.eds](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/2025-04-08_175018%20HMS.eds)
+- [Figures of Results 2.xlsx](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Figures%20of%20Results%202.xlsx)
+- [Raw Reads.xls](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/Raw%20Reads.xls)
+- [qPCR_Metadata_EnviroGenom_HMS.xlsx](https://github.com/RIT-Environmental-Genomics/Duplex-qPCR-Detection-of-B.-dendrobatidis-and-B.-salamandrivorans-in-Amphibian-Samples/blob/main/qPCR_Metadata_EnviroGenom_HMS.xlsx)
 
 ## Collaborators
 Halley Deme, Sydney Purcell, Molly Regan, & Dr. Elle Barnes
