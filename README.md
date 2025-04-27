@@ -4,7 +4,6 @@ The fungal pathogens B. dendrobatidis and B. salamandrivorans are responsible fo
 
   - [Why should you use this repository?](#why-should-you-use-this-repository)
   - [How to use this repository](#how-to-use-this-repository)
-  - [LICENCE](#licence)
   <!-- /TOC -->
 
 <img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Download-Image.png" alt="Salamander">
@@ -25,3 +24,5 @@ This repository is a _template_. It does not contain any project information its
 These files can - and should - be modified for your own project. For example, **this `README.md` file is a landing page for the project, explaining what it is, why it exists, and how to use it.** Your project repository should replace this `README.md` file with information that performs the same task _for your project_.
 
 The same applies to `README.md` files in the subdirectories under this _project root_ folder
+
+<img src="https://www.pngall.com/wp-content/uploads/5/Salamander-PNG-Download-Image.png" alt="Salamander">
